@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a857be1e37df8151125.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DebtCalculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DebtCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebtCalculator-Debug-6785e4d21c776e48c961.json",
+					"name" : "DebtCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DebtCalculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebtCalculator_autogen-Debug-7f2b93f1e442aeca5197.json",
+					"name" : "DebtCalculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DebtCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DebtCalculator_autogen_timestamp_deps-Debug-35c6b50055f04204f4fa.json",
+					"name" : "DebtCalculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

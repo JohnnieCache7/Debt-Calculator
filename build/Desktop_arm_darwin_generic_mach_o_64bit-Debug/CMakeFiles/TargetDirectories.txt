@@ -1,0 +1,9 @@
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/DebtCalculator.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/DebtCalculator_autogen_timestamp_deps.dir
+/Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/DebtCalculator_autogen.dir

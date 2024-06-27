@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_DebtCalculator_FILE /Users/jonathanargueta/Documents/Dmacc/C++/DebtCalculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/DebtCalculator.app/Contents/MacOS/DebtCalculator)
